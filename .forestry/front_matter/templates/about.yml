@@ -15,7 +15,7 @@ fields:
   default: about
   config:
     required: true
-- name: O_Firmie
+- name: o_nas
   type: textarea
   default: ''
   config:
@@ -23,6 +23,6 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: O Firmie
+  label: O Nas
 pages:
 - about.md

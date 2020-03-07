@@ -1,12 +1,12 @@
 {
-    "title": "Zobacz aktualne produkty",
-    "subtitle": "Atrakcyjne Ceny",
-    "image": {
-        "optimized": "images/promo.webp",
-        "fallback": "images/promo.jpg"
-    },
-    "cta": {
-        "text": "Zobacz aktuane promocje",
-        "link": "/store"
-    }
+  "title": "Zobacz aktualne promocje",
+  "subtitle": "Marzec 2020",
+  "image": {
+    "optimized": "/images/Zoty-Zestaw-ATELO.webp",
+    "fallback": "/images/Zoty-Zestaw-ATELO.png"
+  },
+  "cta": {
+    "text": "Discover",
+    "link": "/store"
+  }
 }
