@@ -16,8 +16,8 @@ images:
       optimized: "/images/plant4-featured.webp"
       fallback: "/images/plant4-featured.jpg"
     original:
-      optimized: "/images/plant4-featured-lg.webp"
-      fallback: "/images/plant4-featured-lg.jpg"
+      optimized: "/images/www_atelomaska_box_445x445.webp"
+      fallback: "/images/atelomaska_box.png"
 category: cactuses
 featured: false
 section: Store
