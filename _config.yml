@@ -10,8 +10,8 @@ logos:
     optimized: "/images/logo-white.webp"
     fallback: "/images/logo-white.jpg"
   dark:
-    optimized: images/logo.svg
-    fallback: images/logo.svg
+    optimized: "/images/logo-white.webp"
+    fallback: "/images/logo-white.jpg"
 palette: default
 palettes:
   default:
