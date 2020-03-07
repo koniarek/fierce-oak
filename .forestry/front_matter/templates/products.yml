@@ -37,16 +37,6 @@ fields:
     label: Featured
     fields:
     - type: field_group
-      name: thumbnail
-      label: Thumbnail
-      fields:
-      - type: file
-        name: optimized
-        label: Optimized (WEBP or similar)
-      - type: file
-        name: fallback
-        label: Fallback (JPG or PNG)
-    - type: field_group
       name: original
       label: Original
       fields:
