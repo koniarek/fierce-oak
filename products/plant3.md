@@ -1,27 +1,28 @@
 ---
-id: '3'
-title: Atelokrem MC2 
-description: 'Złota Linia Atelo, Pojemność 50ml.'
+id: "3"
+title: Atelokrem MC2
+description: Złota Linia Atelo, Pojemność 50ml.
 price: '237.00'
 images:
   default:
     thumbnail:
-      optimized: /images/plant3.webp
-      fallback: /images/plant3.jpg
+      optimized: "/images/plant3.webp"
+      fallback: "/images/plant3.jpg"
     original:
-      optimized: /images/plant3-lg.webp
-      fallback: /images/plant3-lg.jpg
+      optimized: "/images/plant3-lg.webp"
+      fallback: "/images/plant3-lg.jpg"
   featured:
     thumbnail:
-      optimized: /images/plant3-featured.webp
-      fallback: /images/plant3-featured.jpg
+      optimized: "/images/plant3-featured.webp"
+      fallback: "/images/plant3-featured.jpg"
     original:
-      optimized: /images/plant3-featured-lg.webp
-      fallback: /images/plant3-featured-lg.jpg
+      optimized: "/images/www_atelokrem_mc2_445x445.webp"
+      fallback: "/images/atelokrem_mc2.png"
 category: cactuses
 featured: false
 section: Store
 layout: product
+
 ---
 #Atelokrem MC2 
 
