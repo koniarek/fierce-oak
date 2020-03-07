@@ -4,6 +4,6 @@ isHome: true
 layout: index
 ---
 
-# Real, beautiful plants right to your door
+# Oficjalny sklep dystrybutora Colway - Kolagen 
 
  
