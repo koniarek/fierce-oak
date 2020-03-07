@@ -18,7 +18,7 @@ images:
     original:
       optimized: "/images/plant2-featured-lg.webp"
       fallback: "/images/plant2-featured-lg.jpg"
-category: ''
+category: category/collagens.md
 featured: true
 section: Store
 layout: product
