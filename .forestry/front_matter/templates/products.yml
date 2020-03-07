@@ -51,12 +51,9 @@ fields:
   label: Category
   config:
     source:
-      type: custom
-    options:
-    - summer
-    - europe
-    - bigplants
-    - cactuses
+      type: pages
+      section: categories
+    options: []
 - type: boolean
   name: featured
   label: Featured
