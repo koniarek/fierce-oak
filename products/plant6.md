@@ -16,8 +16,8 @@ images:
       optimized: "/images/plant6-featured.webp"
       fallback: "/images/plant6-featured.jpg"
     original:
-      optimized: "/images/plant6-featured-lg.webp"
-      fallback: "/images/plant6-featured-lg.jpg"
+      optimized: "/images/www_ateloplyn_demakijaz_box_445x445.webp"
+      fallback: "/images/ateloplyn_demakijaz_box.png"
 category: category/cosmetics.md
 featured: true
 section: Store
