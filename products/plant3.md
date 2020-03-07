@@ -18,7 +18,7 @@ images:
     original:
       optimized: /images/plant3-featured-lg.webp
       fallback: /images/plant3-featured-lg.jpg
-category: cactuses
+category: kolageny
 featured: false
 section: Store
 layout: product
