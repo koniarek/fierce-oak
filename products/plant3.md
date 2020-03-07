@@ -19,7 +19,7 @@ images:
       optimized: "/images/www_atelokrem_mc2_445x445.webp"
       fallback: "/images/atelokrem_mc2.png"
 category: cactuses
-featured: false
+featured: true
 section: Store
 layout: product
 
