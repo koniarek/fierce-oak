@@ -6,7 +6,7 @@
         "fallback": "images/promo.jpg"
     },
     "cta": {
-        "text": "Discover",
+        "text": "Zobacz aktuane promocje",
         "link": "/store"
     }
 }
