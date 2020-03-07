@@ -1,30 +1,29 @@
 ---
-id: '1'
+id: "1"
 title: Atelokolagen
-description: >-
-  Złota linia Atelo, pojemność 50ml.
+description: Złota linia Atelo, pojemność 50ml.
 price: '287.00'
 images:
   default:
     thumbnail:
-      optimized: /images/plant1.webp
-      fallback: /images/plant1.jpg
+      optimized: "/images/plant1.webp"
+      fallback: "/images/plant1.jpg"
     original:
-      optimized: /images/plant1-lg.webp
-      fallback: /images/plant1-lg.jpg
+      optimized: "/images/plant1-lg.webp"
+      fallback: "/images/plant1-lg.jpg"
   featured:
     thumbnail:
-      optimized: /images/plant1-featured.webp
-      fallback: /images/plant1-featured.jpg
+      optimized: "/images/plant1-featured.webp"
+      fallback: "/images/plant1-featured.jpg"
     original:
-      optimized: /images/plant1-featured-lg.webp
-      fallback: /images/plant1-featured-lg.jpg
-category: collagens
+      optimized: "/images/plant1-featured-lg.webp"
+      fallback: "/images/plant1-featured-lg.jpg"
+category: category/collagens.md
 featured: true
 section: Store
 layout: product
----
 
+---
 # Atelokolagen COLWAY 50ml.
 
 Arcydzieło biotechnologii białek, które precyzyjnie uderza w przyczynę starzenia się skóry.
