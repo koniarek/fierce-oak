@@ -1,8 +1,8 @@
 ---
 id: '2'
-title: Integer porta
-description: Suspendisse efficitur eget erat sit amet efficitur.
-price: '99.00'
+title: Atelokolagen Perłowy 
+description: Złotaliniia Atelo, Pojemoność 120ml.
+price: '287.00'
 images:
   default:
     thumbnail:
@@ -18,12 +18,17 @@ images:
     original:
       optimized: /images/plant2-featured-lg.webp
       fallback: /images/plant2-featured-lg.jpg
-category: cactuses
+category: collagens
 featured: true
 section: Store
 layout: product
 ---
 
-# Integer porta
+#Atelokolagen Perłowy 120 ml
 
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus.
+Sekret perfekcyjnej skóry, pozwalający odblokować jej naturalne mechanizmy rewitalizujące.
+
+Właściwości produktu
+Atelokolagen Perłowy to rewolucyjna synergia działania trzech aktywnych kolagenów: atelokolagenu, tropokolagenu oraz prokolagenu. Ich niezwykle inteligentne połączenie, wzmocnione uderzeniową dawką witaminy C – zawartą w unikalnym kompleksie Superox – C, stworzyło niezwykle luksusowy kosmetyk anti – age, przeznaczony do pielęgnacji ciała z widocznymi oznakami starzenia.
+Unikalny kompleks trzech aktywnych kolagenówzostał wzbogacony o naturalne ekstrakty z roślin: jagód goji, jagód acai, noni, świeżych ziaren kawy, owoców granatu, zielonej herbaty, mangostanu, które stanowią niezwykle cenne źródło antyoksydantów o silnym działaniu przeciwstarzeniowym. Ten aksamitny żel o ultralekkiej, a przy tym niezwykle sensorycznej formule, już po pierwszej aplikacji zapewnia efekt napiętej, niesamowicie gładkiej i pięknie rozświetlonej skóry.
+
