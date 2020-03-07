@@ -18,8 +18,8 @@ images:
     original:
       optimized: "/images/www_atelomaska_box_445x445.webp"
       fallback: "/images/atelomaska_box.png"
-category: cactuses
-featured: false
+category: category/cosmetics.md
+featured: true
 section: Store
 layout: product
 
