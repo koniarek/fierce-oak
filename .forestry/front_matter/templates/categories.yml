@@ -25,8 +25,3 @@ fields:
   default: category
   config:
     required: true
-pages:
-- category/bigplants.md
-- category/cactuses.md
-- category/europe.md
-- category/summer.md
