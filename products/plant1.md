@@ -1,11 +1,9 @@
 ---
 id: '1'
-title: Nulla suscipit
+title: Atelokolagen
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
-price: '49.40'
+  Złota linia Atelo, pojemność 50ml.
+price: '287.00'
 images:
   default:
     thumbnail:
@@ -21,12 +19,22 @@ images:
     original:
       optimized: /images/plant1-featured-lg.webp
       fallback: /images/plant1-featured-lg.jpg
-category: bigplants
+category: collagens
 featured: true
 section: Store
 layout: product
 ---
 
-# Nulla suscipit
+# Atelokolagen COLWAY 50ml.
 
-Aliquam quis laoreet lectus. Proin non mattis nulla, quis posuere mi. Mauris venenatis, magna at pellentesque commodo, lectus risus vehicula elit, nec dignissim nisl sapien id leo. Nulla non pretium metus, vitae finibus lectus. Aliquam in posuere risus. Curabitur ultrices ornare magna porttitor commodo. Curabitur eu tempor orci, sed pretium quam. Vestibulum condimentum, arcu nec pulvinar fringilla, lorem odio varius arcu, in porta tellus eros sed neque. Suspendisse efficitur eget erat sit amet efficitur. Proin maximus nibh eu sapien consequat, non porttitor risus consequat. Donec maximus odio sed nibh convallis luctus.
+Arcydzieło biotechnologii białek, które precyzyjnie uderza w przyczynę starzenia się skóry.
+
+Właściwości produktu
+Atelokolagen to ekskluzywny produkt anti-age klasy premium dla wymagających kobiet, które chcą perfekcyjnie zadbać o wygląd twarzy, szyi i dekoltu.
+Skuteczność działania Atelokolagenu została oparta na unikalnym połączeniu trzech rodzajów aktywnego kolagenu transdermalnego, które działając synergicznie, powstrzymują procesy starzeniowe, wpływając na zwiększenie gęstości i poprawę sprężystości skóry.
+Luksusowa receptura produktu została uszlachetniona proteinami jedwabiu i złotem koloidalnym co sprawia, że skóra już po kilku aplikacjach produktu staje się niewiarygodnie gładka i promienna. Atelokolagen zapewnia również doskonałe nawilżenie i wzmocnienie skóry, dzięki czemu staje się ona napięta, jędrna i pełna blasku.
+
+Produkt od pierwszej chwili zachwyca swoją formą – mieniący się złotymi drobinkami lekki żel został precyzyjnie ułożony w model potrójnej helisy. To ekskluzywne rozwiązanie technologiczne, które idealnie podkreśla luksusowy charakter produktu, sprawia, że jego aplikacja staje się prawdziwą przyjemnością. Dopełnieniem tego niezwykle sensorycznego rytuału pielęgnacyjnego jest naturalny, różany zapach, który delikatnie otula swoją zmysłową nutą.
+Aksamitna formuła lekkiego żelu zapewnia ultraszybkie wchłanianie, dzięki temu produkt stanowi doskonałą bazę pod makijaż.
+
+Atelokolagen jest szczególnie polecany do pielęgnacji cery dojrzałej.
