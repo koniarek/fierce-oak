@@ -1,1 +1,4 @@
-{}
+---
+main:
+- weight: 1
+  title: Sklep
