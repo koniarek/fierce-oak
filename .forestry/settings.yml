@@ -49,11 +49,6 @@ sections:
   label: Promotion
   templates:
   - promotion
-- type: document
-  path: _data/testimonials.json
-  label: Testimonials
-  templates:
-  - testimonials
 - type: directory
   path: products
   label: Product
