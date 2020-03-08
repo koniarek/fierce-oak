@@ -11,6 +11,16 @@ fields:
 - type: text
   name: description
   label: Description
+- type: select
+  name: section
+  label: Section
+  config:
+    source:
+      type: custom
+    options:
+    - Store
+    - About
+    - Home
 - type: text
   name: price
   label: Price
@@ -57,16 +67,6 @@ fields:
 - type: boolean
   name: featured
   label: Featured
-- type: select
-  name: section
-  label: Section
-  config:
-    source:
-      type: custom
-    options:
-    - Store
-    - About
-    - Home
 - type: text
   name: layout
   label: Layout
