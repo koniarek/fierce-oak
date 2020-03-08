@@ -6,18 +6,18 @@ price: '287.00'
 images:
   default:
     thumbnail:
-      optimized: "/images/plant1.webp"
-      fallback: "/images/plant1.jpg"
+      optimized: "/images/atelokolagen-1.webp"
+      fallback: "/images/atelokolagen-1.png"
     original:
-      optimized: "/images/plant1-lg.webp"
-      fallback: "/images/plant1-lg.jpg"
+      optimized: "/images/atelokolagen.webp"
+      fallback: "/images/atelokolagen.png"
   featured:
     thumbnail:
-      optimized: "/images/plant1-featured.webp"
-      fallback: "/images/plant1-featured.jpg"
+      optimized: "/images/atelokolagen-1.webp"
+      fallback: "/images/atelokolagen-1.png"
     original:
-      optimized: "/images/plant1-featured-lg.webp"
-      fallback: "/images/plant1-featured-lg.jpg"
+      optimized: "/images/atelokolagen.webp"
+      fallback: "/images/atelokolagen.png"
 category: category/collagens.md
 featured: true
 section: Store
